@@ -1,4 +1,4 @@
-package com.capstone.answer.global.config;
+package com.capstone.answer.config;
 
 import io.swagger.v3.oas.models.Components;
 import io.swagger.v3.oas.models.OpenAPI;
